@@ -92,7 +92,7 @@ ESP32 ведет таблицу посещаемости в течение за�
 Собрали схему, сделали прошивку, печатаем корпус на 3д принтере
 <img width="793" height="888" alt="1" src="https://github.com/user-attachments/assets/3b69725e-77d9-456c-8afd-16c9ed2df3d3" />
 
-11.11.2026
+15.11.2026
 Напечатали корпус, собрали схему в корпус
 <img width="960" height="1280" alt="2" src="https://github.com/user-attachments/assets/7457c4f4-1a7e-46cb-8d18-405c68d4166e" />
 ы<img width="1280" height="960" alt="3" src="https://github.com/user-attachments/assets/5e5c5d3c-1cb2-4925-9848-6dbeb2d1410b" />
